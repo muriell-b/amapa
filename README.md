@@ -1,2 +1,2 @@
 # amapa
-dados da pesquisa de campo no Macapá
+dados da pesquisa de campo no Macapá - Muriell Bernardo
